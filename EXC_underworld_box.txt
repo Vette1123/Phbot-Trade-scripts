@@ -1,0 +1,15 @@
+walk,-5178,2854,180
+inject,0x7045,0F,01,00,00
+inject,0x7046,0F,01,00,00,02
+inject,0x30D4,False,06
+inject,0x30D4,False,05
+inject,0x704B,0F,01,00,00
+inject,0x30D4,False,05
+inject,0x30D4,False,05
+inject,0x30D4,False,05
+inject,0x30D4,False,05
+inject,0x30D4,False,05
+inject,0x30D4,False,05
+inject,0x30D4,False,05
+inject,0x30D4,False,05
+inject,0x30D4,False,05
